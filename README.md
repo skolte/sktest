@@ -1,7 +1,7 @@
 # sktest
 this is just a test
 
-## Data Science Specialization 
+### Data Science Specialization 
 
 * Uses R 
 * Nine courses 
