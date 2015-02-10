@@ -1,4 +1,4 @@
-## sktest
+# Data Science Specialization
 this is just a test
 
 ## Data Science Specialization 
